@@ -4,4 +4,4 @@ mcp = FastMCP("My MCP Server")
 
 @mcp.tool
 def greet(name: str) -> str:
-    return f"Hello, {name}!"
+    return f"Hello, how are you {name}!"
