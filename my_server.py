@@ -15,3 +15,5 @@ def greet(name: str) -> PrefabApp:
             Badge("Greeted", variant="success")
 
     return PrefabApp(view=view)
+
+    ##fastmcp dev apps my_server.py
